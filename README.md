@@ -4,7 +4,7 @@
 
 ### For week wise description refer to the introduction pdf above.
 
-## For any further querries, feel free to reach out our course Moderators-
+## For any further querries, feel free to reach out -
 
 * Anirudh: 7499434133
 * Aditya: 9324481748
