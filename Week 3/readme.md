@@ -3,7 +3,7 @@ Welcome to the third week of our **Machine Learning Course!** This week, we'll d
 
 Stay engaged and practice consistently to make the most of this learning experience. Keep your enthusiasm high, and let’s continue this exciting journey of machine learning together!
 
-1. Let's start with [OpenCV](./Image%20Processing%20-%20OpenCV), essential for preprocessing the raw image data.
+1. Let's start with [OpenCV](./Image%20Preprocessing%20-%20OpenCV), essential for preprocessing the raw image data.
 2. Now it's time to explore [Convolutional Neural Network](./CNN), the most efficient NN to deal with image data.
 5. Let's put our knowledge to the test and tackle the [Assignments](./Assignment).
 
